@@ -2,8 +2,8 @@
 Sebelum mengutak-atik, membuat, atau sebagainya pada aplikasi website lebih baik untuk memahami apa layout itu? Jadi layout adalah penataan elemen halaman website dengan tepat sebutlah istilah di dunia pemrograman web yaitu Semantics HTML. Untuk bisa menata halaman website sesuai standar website atau prosedurnya maka dibutuhkan sebuah ilmu dan pemahamannya, tentu penggunaan HTML yang merupakan kerangka dasarnya adalah hal penting disertai dekorasinya dengan bantuan CSS style. Umumnya saja apa yang kita lihat ketika berkunjung ke sebuah halaman website, maka kita bisa observasi atau meninjau seperti apakah layout pada umumnya.
 
 include:
-  - "_img/CodetoPage.png"
-  - "_img"
+  - "img/CodetoPage.png"
+  - "img"
 
 ## Welcome to GitHub Pages
 
